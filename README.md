@@ -1,13 +1,22 @@
-Zapret Installer Script
+# Zapret Installer Script
 
-This is a simple Bash script to download, install, and configure Zapret on Linux systems. It also supports setting up DNS over TLS.
+This is a simple Bash script to **download, install, and configure Zapret** on Linux systems. It also supports setting up **DNS over TLS**.
 
-Features
-Download the latest Zapret release automatically
-Install required dependencies if missing
-Configure DNS over TLS
-Easy uninstall options
+## Features
 
-Requirements
-Linux system with Bash
-systemd (for DNS over TLS)
+- Download the latest Zapret release automatically  
+- Install required dependencies if missing  
+- Configure DNS over TLS  
+- Easy uninstall options  
+
+## Requirements
+
+- Linux system with Bash  
+- `systemd` (for DNS over TLS)  
+
+## Usage
+
+1. Make the script executable:
+
+```bash
+chmod +x zapret_dot.sh
