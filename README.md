@@ -4,8 +4,7 @@ This is a simple Bash script to **download, install, and configure Zapret** on L
 
 ## Features
 
-- Download the latest Zapret release automatically  
-- Install required dependencies if missing  
+- Installing Zapret v71.4 and set up automatically
 - Configure DNS over TLS  
 - Easy uninstall options  
 
