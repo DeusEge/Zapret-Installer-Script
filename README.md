@@ -15,7 +15,7 @@ This is a simple Bash script to **download, install, and configure Zapret** on L
 
 ## Usage
 ```bash
-wget -P ~/Downloads https://github.com/DeusEge/Zapret-Installer-Script/releases/download/v1.1.0/zapret_dot.sh
+wget -P ~/Downloads https://github.com/DeusEge/Zapret-Installer-Script/releases/download/v1.1.1/zapret_dot.sh
 chmod +x ~/Downloads/zapret_dot.sh
 sudo ~/Downloads/zapret_dot.sh
 rm ~/Downloads/zapret_dot.sh
