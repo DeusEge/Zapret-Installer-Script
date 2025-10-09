@@ -11,7 +11,7 @@ This is a simple Bash script to **download, install, and configure Zapret** on L
 ## Requirements
 
 - Linux system with Bash  
-- `Systemd` or `OpenRC` (for DNS over TLS)  
+- `Systemd` or `OpenRC`
 
 ## Usage
 ```bash
