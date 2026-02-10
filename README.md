@@ -6,7 +6,8 @@ This is a simple Bash script to **download, install, and configure Zapret** on L
 
 - Installing Zapret v71.4 and set up automatically
 - Configure DNS over TLS  
-- Easy uninstall options  
+- Easy uninstall options
+- Rollback option 
 
 ## Requirements
 
@@ -15,7 +16,7 @@ This is a simple Bash script to **download, install, and configure Zapret** on L
 
 ## Usage
 ```bash
-wget -P /var/tmp https://github.com/DeusEge/Zapret-Installer-Script/releases/download/v1.2.1/zapret_dot.sh
+wget -P /var/tmp https://github.com/DeusEge/Zapret-Installer-Script/releases/download/v1.3.0/zapret_dot.sh
 chmod +x /var/tmp/zapret_dot.sh
 sudo /var/tmp/zapret_dot.sh
 rm /var/tmp/zapret_dot.sh
