@@ -35,7 +35,9 @@ sudo /var/lib/zapret_dot/zapret_dot.sh
 ```
 ## Delete Script
 
-Following command will delete script and its logs without changing the changes script made before.
+The following command removes the script and its logs.  
+It does not revert any changes made during installation.
+
 ```bash
 sudo rm -rf /var/lib/zapret_dot
 ```
