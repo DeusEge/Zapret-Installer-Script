@@ -329,8 +329,6 @@ if [[ "$operation_type" == "5" ]]; then
         (( n > backupX_max )) && backupX_max=$n
     done
 
-    echo "$backupX_max"
-
     while true; do
         echo "Which backup you want to restore?"
         for f in "$BASE_BACKUP_DIR"/backup*; do
